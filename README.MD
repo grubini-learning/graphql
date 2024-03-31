@@ -54,55 +54,55 @@ A query language for reading and mutating data in APIs
 
   ## Sub Folders
 
-  1. `e-commerce-app`, in this project you can find:
+  1.  `e-commerce-app`, in this project you can find:
 
-  - About mutations
-  - About queries
-  - About inputs
-  - About types
-  - About parameters
-  - About what `(parent, args, ctx)` is
-  - How to provide ctx to your resolvers
+      - About mutations
+      - About queries
+      - About inputs
+      - About types
+      - About parameters
+      - About what `(parent, args, ctx)` is
+      - How to provide ctx to your resolvers
 
-  ### Description
+      * ### Description
 
-  Product e-commerce graphQL API that allows you to:
+            Product e-commerce graphQL API that allows you to:
 
-  - query for products
-  - filter for products
-    - products on sale
-    - products with a review average
-  - CRUD operations for products
-  - CRUD operations for categories
-  - CRUD operations for reviews
-  - Resolve nested object fields
+        - query for products
+        - filter for products
+          - products on sale
+          - products with a review average
+        - CRUD operations for products
+        - CRUD operations for categories
+        - CRUD operations for reviews
+        - Resolve nested object fields
 
-  2. `auth-graphql-starter`, in this project you can find:
+  2.  `auth-graphql-starter`, in this project you can find:
 
-  - GraphQL set up with
+      - GraphQL set up with
 
-    - express
-    - apollo client
-    - graphQL express
-    - React
-    - webpack
-    - Passport.js
+        - express
+        - apollo client
+        - graphQL express
+        - React
+        - webpack
+        - Passport.js
 
-    ### Description
+      * ### Description
 
-    User application that allows to authenticate and perform a user sign up, sign in, and log out. This also responds correctly in the client side with `react-apollo` and `apollo-client`.
+            User application that allows to authenticate and perform a user sign up, sign in, and log out. This also responds correctly in the client side with `react-apollo` and `apollo-client`.
 
-  3. `car-design`, in this project you can find:
+  3.  `car-design`, in this project you can find:
 
-  - Shopify API design learnings
-  - The use of enums for finite possible values
+      - Shopify API design learnings
+      - The use of enums for finite possible values
 
-  4. `social-media`, in this project you can find:
+  4.  `social-media`, in this project you can find:
 
-  - Typescript
-  - Authentication
-  - Real DB
-    - Supabase with Postgres
-    - Prisma ORM
-  - Performance
-  - Interacting with a client
+      - Typescript
+      - Authentication
+      - Real DB
+        - Supabase with Postgres
+        - Prisma ORM
+      - Performance
+      - Interacting with a client
