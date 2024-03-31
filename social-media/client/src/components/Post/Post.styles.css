@@ -1,0 +1,23 @@
+.post {
+  background-color: aliceblue;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  position: relative;
+}
+
+.post__publish {
+  position: absolute;
+  right: 5px;
+  font-size: 7px;
+  cursor: pointer;
+}
+
+.post__header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.post__header-container h4 {
+  font-size: 0.5rem;
+}
